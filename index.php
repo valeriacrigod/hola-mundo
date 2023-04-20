@@ -7,7 +7,7 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Bienvenidos Hola Mundo</h1>
-  <h2>ChoicesPracticas Profesionalizantes</2>
+  <h1>Nikola Tezla</h1>  
+  <h2>Fue un Inventor e Ingeniero Eléctrico</h2> 
 </body>
 </html>
